@@ -1,4 +1,4 @@
--- hitesh
+-- hello 
 -- Using  db
 use simplehr;
 -- Create table
